@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Kaung Si Thu 👋  
+💻 Full-Stack Developer | 🚀 Open Source Contributor  
 
-<!--
-**Kaungsithu27/Kaungsithu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- 🌱 Learning MERN Stack  
+- 🎯 Goal: Becoming a Senior Full-Stack Developer  
+- 📫 Reach me at: kaungsithukyaukse91@gmail.com
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
